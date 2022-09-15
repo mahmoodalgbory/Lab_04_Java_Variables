@@ -49,6 +49,24 @@ public class Main
 
         System.out.println("The remainder of " + doubleOperandA + " and " + doubleOperandB + " is " + doubleModulo);
 
+        int familyKids = 4;
+        boolean isItRaining = false;
+        double gasPrice = 3.69;
+        int favNum = 11;
+        double shoeSize = 8.5;
+        String birthMonth = "February";
+        System.out.println("My birth month is " + birthMonth);
+        String fullName = "Mahmood Algbory";
+        System.out.println("My full name is " + fullName);
+
+
+
+
+        // your favorite number :
+        // your shoe size:
+        // your birth month:
+        //your full name:
+
 
 //hello
     }
